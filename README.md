@@ -100,7 +100,7 @@ A modern, interactive job description website for **Infrastructure Full-stack De
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/JDFullStack_TS.git
+git clone https://github.com/minproducer/JDFullStack_TS.git
 cd JDFullStack_TS
 ```
 
